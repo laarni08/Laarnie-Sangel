@@ -1,0 +1,16 @@
+body {
+  background-image: url("bb.png");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+td, tr {
+   font-family: "Courier New", Courier, monospace;
+   background-color:lightblue;
+   text-align: center;
+
+}
+
+
+
